@@ -4,7 +4,7 @@ The analysis is intended to assist the user in determining the parameter "epsilo
 
 - Calculate k nearest neighbors
 - Display them as k-distance graphs
-- Calculate knee-point with kneed[1] -> get epsilon
+- Calculate knee-point with kneed[1] &rarr; get epsilon
 - Before knee-point calculation the curve is low-pass filtered and normalized
 
 **Requirements** (installed in Anaconda shell): numpy, h5py, tqdm, matplotlib, kneed</br>
